@@ -8,7 +8,7 @@
 
 @font-face {
   font-family: "Fira Code";
-  src: url("fonts\FiraCode-VF.ttf");
+  src: url("https://fonts.googleapis.com/css2?family=Fira+Code:wght@300&display=swap");
 }
 
 html, body {
