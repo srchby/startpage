@@ -1,8 +1,8 @@
 :root {
-    --color-bg: #282828;
-    --color-fg: #EADBB2;
-    --color-link: #8F9191;
-    --color-link-visited: #668F8B;
+    --color-bg: #210000 ;
+    --color-fg: #FF2400;
+    --color-link: #834B2B;
+    --color-link-visited: #834B2B;
     --color-link-hover: #FA7921 ;
 }
 
