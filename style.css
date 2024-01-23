@@ -1,9 +1,14 @@
 :root {
     --color-bg: #210000 ;
     --color-fg: #FF2400;
-    --color-link: #834B2B;
-    --color-link-visited: #834B2B;
+    --color-link: #be7e59;
+    --color-link-visited: #be7e59;
     --color-link-hover: #FA7921 ;
+}
+
+@font-face {
+  font-family: "Fira Code";
+  src: url("fonts\FiraCode-VF.ttf");
 }
 
 html, body {
